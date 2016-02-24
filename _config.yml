@@ -1,0 +1,28 @@
+name: codylwheat
+favicon: null
+layout_spectrum: 0.11535928305238485
+typography_spectrum: 0.1762606797274202
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7264958587475121
+  lightness: 0.13158851233310997
+  saturation: 0.5006495283450931
+  rhythmicContrast: 0.2472986844368279
+purpose: []
